@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LAP_TRINH_JAVA/LAP_TRINH_JAVA.iml" filepath="$PROJECT_DIR$/LAP_TRINH_JAVA/LAP_TRINH_JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part1_NgonNguLapTrinhJava/Part1_NgonNguLapTrinhJava.iml" filepath="$PROJECT_DIR$/Part1_NgonNguLapTrinhJava/Part1_NgonNguLapTrinhJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SOFTWARE ARCHITECTURE AND DESIGN.iml" filepath="$PROJECT_DIR$/.idea/SOFTWARE ARCHITECTURE AND DESIGN.iml" />
+    </modules>
+  </component>
+</project>
