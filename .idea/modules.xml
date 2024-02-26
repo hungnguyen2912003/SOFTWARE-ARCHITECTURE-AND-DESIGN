@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Exercises.iml" filepath="$PROJECT_DIR$/Exercises/Exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAP_TRINH_JAVA/LAP_TRINH_JAVA.iml" filepath="$PROJECT_DIR$/LAP_TRINH_JAVA/LAP_TRINH_JAVA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Part1_NgonNguLapTrinhJava/Part1_NgonNguLapTrinhJava.iml" filepath="$PROJECT_DIR$/Part1_NgonNguLapTrinhJava/Part1_NgonNguLapTrinhJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SOFTWARE ARCHITECTURE AND DESIGN.iml" filepath="$PROJECT_DIR$/.idea/SOFTWARE ARCHITECTURE AND DESIGN.iml" />
-      <module fileurl="file://$PROJECT_DIR$/STRATERY PATTERN/STRATERY PATTERN.iml" filepath="$PROJECT_DIR$/STRATERY PATTERN/STRATERY PATTERN.iml" />
     </modules>
   </component>
 </project>
