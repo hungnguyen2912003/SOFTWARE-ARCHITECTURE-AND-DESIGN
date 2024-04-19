@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="923371eb-038d-43f8-952f-452620d6f0d6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="UML Sequence" />
+        <option value="UML Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2camKQGvlmh5srlROigrt1tqgx5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainBT1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainBT2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainBT3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainBT4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainComputer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainDuck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainSingleton.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainVote.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_Bevarage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_F88.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_Factory.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_TemplateMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_TiGia.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_a1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_a5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_a6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_b1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_b3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_ca5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_cb1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_cc1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_cc2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_cc3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_cd1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_js5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maina1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maina2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maina4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maina5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maina7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.creational.singleton.BT_A4.MainVote.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main_b3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main_b4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main_b6.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultPlantUmlFileTemplate&quot;: &quot;UML Class&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/SOFTWARE ARCHITECTURE AND DESIGN&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\SOFTWARE ARCHITECTURE AND DESIGN\LAP_TRINH_JAVA\src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="923371eb-038d-43f8-952f-452620d6f0d6" name="Changes" comment="" />
+      <created>1708358001839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708358001839</updated>
+      <workItem from="1708358004672" duration="10000" />
+      <workItem from="1708358019114" duration="131000" />
+      <workItem from="1708358161592" duration="337000" />
+      <workItem from="1708358510971" duration="40000" />
+      <workItem from="1708358563154" duration="204000" />
+      <workItem from="1708358780513" duration="12000" />
+      <workItem from="1708358803893" duration="334000" />
+      <workItem from="1708410316160" duration="3104000" />
+      <workItem from="1708413745122" duration="3350000" />
+      <workItem from="1708594166941" duration="111000" />
+      <workItem from="1708660293931" duration="805000" />
+      <workItem from="1708661122089" duration="527000" />
+      <workItem from="1708665560642" duration="1054000" />
+      <workItem from="1708666637493" duration="1886000" />
+      <workItem from="1708697587000" duration="588000" />
+      <workItem from="1708698331910" duration="98000" />
+      <workItem from="1708701438956" duration="2182000" />
+      <workItem from="1708733708179" duration="251000" />
+      <workItem from="1708734213675" duration="4449000" />
+      <workItem from="1708738746704" duration="7415000" />
+      <workItem from="1708863472503" duration="5033000" />
+      <workItem from="1708873043242" duration="38000" />
+      <workItem from="1708909266174" duration="4000" />
+      <workItem from="1708957895961" duration="5653000" />
+      <workItem from="1709013699535" duration="488000" />
+      <workItem from="1709014210987" duration="8043000" />
+      <workItem from="1709194504671" duration="2595000" />
+      <workItem from="1709201183798" duration="900000" />
+      <workItem from="1709278666804" duration="34000" />
+      <workItem from="1709461886788" duration="5098000" />
+      <workItem from="1709468257106" duration="1992000" />
+      <workItem from="1709473825343" duration="3189000" />
+      <workItem from="1709477611806" duration="515000" />
+      <workItem from="1709478575101" duration="131000" />
+      <workItem from="1709532740036" duration="4082000" />
+      <workItem from="1709561780620" duration="6977000" />
+      <workItem from="1709618940575" duration="8752000" />
+      <workItem from="1709652637512" duration="609000" />
+      <workItem from="1709878055555" duration="5000" />
+      <workItem from="1709944300946" duration="11323000" />
+      <workItem from="1710000451163" duration="2000" />
+      <workItem from="1710077001584" duration="5000" />
+      <workItem from="1710166549941" duration="1080000" />
+      <workItem from="1710171513729" duration="365000" />
+      <workItem from="1710225623349" duration="5869000" />
+      <workItem from="1710307873574" duration="279000" />
+      <workItem from="1710308189589" duration="1041000" />
+      <workItem from="1710743961030" duration="19000" />
+      <workItem from="1710828622024" duration="1711000" />
+      <workItem from="1710831217368" duration="5854000" />
+      <workItem from="1710844573547" duration="3081000" />
+      <workItem from="1710848231096" duration="3398000" />
+      <workItem from="1711153710120" duration="10499000" />
+      <workItem from="1711188346549" duration="23000" />
+      <workItem from="1711188457987" duration="4746000" />
+      <workItem from="1711193416531" duration="112000" />
+      <workItem from="1711421128643" duration="7407000" />
+      <workItem from="1711428684111" duration="1630000" />
+      <workItem from="1711430772895" duration="806000" />
+      <workItem from="1711431670357" duration="19000" />
+      <workItem from="1711446901022" duration="91000" />
+      <workItem from="1711532832427" duration="490000" />
+      <workItem from="1711533331853" duration="43000" />
+      <workItem from="1711533381391" duration="183000" />
+      <workItem from="1711536144980" duration="7000" />
+      <workItem from="1711538011169" duration="29000" />
+      <workItem from="1711538370300" duration="12000" />
+      <workItem from="1711550782995" duration="74000" />
+      <workItem from="1712580044131" duration="35000" />
+      <workItem from="1713249700297" duration="1983000" />
+      <workItem from="1713251780579" duration="4772000" />
+      <workItem from="1713264212581" duration="234000" />
+      <workItem from="1713264546039" duration="39000" />
+      <workItem from="1713270987695" duration="3490000" />
+    </task>
+    <task id="LOCAL-00001" summary="Cập nhật code">
+      <option name="closed" value="true" />
+      <created>1708358289312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708358289312</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Cập nhật code">
+      <option name="closed" value="true" />
+      <created>1708358342576</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708358342576</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Cập nhật code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cập nhật code" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SOFTWARE_ARCHITECTURE_AND_DESIGN$MainBT3.ic" NAME="MainBT3 Coverage Results" MODIFIED="1708666817163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bt_java.bt3.*</FILTER>
+    </SUITE>
+  </component>
+</project>
