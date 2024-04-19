@@ -26,31 +26,37 @@ public class Computer {
     }
 
     //2. Lớp Builder có nhiệm vụ xây dựng các thành phần cho đối tượng cần khởi tạo (Computer)
-    public static class Builder{
+    public static class Builder implements ComputerBuilder{
         private String CPU, RAM, storage, screen;
 
         //Phương thức xây dựng 1 thành phần của Computer
-        public Builder addCPU(String cpu){
+
+        @Override
+        public ComputerBuilder addCPU(String cpu) {
             this.CPU = cpu;
             return this;
         }
 
-        public Builder addRAM(String ram){
+        @Override
+        public ComputerBuilder addRAM(String ram) {
             this.RAM = ram;
             return this;
         }
 
-        public Builder addStorage(String storage){
+        @Override
+        public ComputerBuilder addStorage(String storage) {
             this.storage = storage;
             return this;
         }
 
-        public Builder addScreen(String screen){
+        @Override
+        public ComputerBuilder addScreen(String screen) {
             this.screen = screen;
             return this;
         }
-        //4. Phương thức bắt buộc phải có của lớp Builder được dùng để trả về đối tượng cần được xây dựng.
-        public Computer build(){
+
+        @Override
+        public Computer build() {
             return new Computer(this);
         }
     }
