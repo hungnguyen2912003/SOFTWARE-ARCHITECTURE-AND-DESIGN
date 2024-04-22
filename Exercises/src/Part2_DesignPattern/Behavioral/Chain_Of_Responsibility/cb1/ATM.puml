@@ -8,10 +8,11 @@ abstract class ATM
     + void rutTien(int soTien);
 }
 
-ATM <|-- MenhGiaATM
-ATM <|-- MenhGiaThapNhat
 
-MenhGiaATM --> ATM : menhGiaThapHon
+ATM <|--- MenhGiaATM
+ATM <|--- MenhGiaThapNhat
+
+MenhGiaATM ---> ATM : menhGiaThapHon
 
 class MenhGiaThapNhat
 {
@@ -24,10 +25,28 @@ note right of ATM::rutTien
 end note
 
 
-note right of MenhGiaThapNhat::rutTien
-    Tính và in số tờ còn lại
-    (/1000)
+abstract class ChonMenhGiaFactory
+{
+    # ATM getChuoiMenhGia(int menhGia)
+    + void rutTien(int soTien, int menhGiaCaoNhat)
+}
+
+ChonMenhGiaFactory ..|> ATM
+note top of ChonMenhGiaFactory
+    Phương thức rút tiền:
+    - Gọi phương thức getChuoiMenhGia --> chuoiMenhGia
+    - Gọi phương thức rutTien trên đối tượng chuoiMenhGia
 end note
 
+ChonMenhGiaVND --|> ChonMenhGiaFactory
 
+ChonMenhGiaVND <--* ATM:"menhGia500, \nmenhGia100, \n... \nmenhGia1"
+
+
+note bottom of ChonMenhGiaVND
+    + Tạo các đối tượng ATM theo mệnh giá tiền Việt Nam
+    + Kết nối các đối tượng này thành chuỗi trong phương thức khởi tạo
+    + Phương thức getCHuoiMenhGia trả về đối tượng kiểu
+    ATM trong chuỗi ứng giá trị đầu vào
+end note
 @enduml

@@ -11,7 +11,7 @@ public class MenhGiaThapNhat extends ATM{
     }
 
     @Override
-    void rutTien(int soTien, int Max) {
+    void rutTien(int soTien) {
         System.out.println(soTien + " tờ mệnh giá " + menhGia);
     }
 }
